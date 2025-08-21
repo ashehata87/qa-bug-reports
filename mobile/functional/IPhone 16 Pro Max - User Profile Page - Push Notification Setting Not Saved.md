@@ -14,20 +14,27 @@
 13. Log in using the same email address and password
 14. Scroll down to Notifications section
 
+
+
     
 **Expected Result**
+
 Push Notifications remain disabled
 
 **Actual Result**
+
 Push Notifications are enabled
 
 **Type**
+
 Functional
 
 **Severity**
+
 Medium
 
 **Attachments**
+
 Screenshot
 Screen Recording
 Mobile Console Log
